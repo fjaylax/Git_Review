@@ -1,4 +1,4 @@
-/.idea/.gitignore
-/Git_Review.iml
+.idea
+
 out
 *.iml
